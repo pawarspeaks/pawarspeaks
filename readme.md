@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawarspeaks" alt="pawarspeaks" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pratappawar_" target="blank"><img src="https://img.shields.io/twitter/follow/pratpappawar_?logo=twitter&style=for-the-badge" alt="pratpappawar_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pratapppawar_" target="blank"><img src="https://img.shields.io/twitter/follow/pratappawar_?logo=twitter&style=for-the-badge" alt="pratappawar_" /></a> </p>
 
 - 🔭 I’m currently working on [Tripify](https://github.com/pawarspeaks/UPRAISE)
 
