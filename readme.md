@@ -1,10 +1,13 @@
 <h1 align="center">Hey there👋, I'm Pratap!</h1>
 <h3 align="center">Learner exploring 🪁 | Bringing ideas to life through code 💡📌</h3>
 
+## Second year Undergrad, Web Developer, Game Developer, Open Source Enthusiast, Programmer!
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarspeaks&label=Profile%20views&color=0e75b6&style=flat" alt="pawarspeaks" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/pratapppawar_" target="blank"><img src="https://img.shields.io/twitter/follow/pratappawar_?logo=twitter&style=for-the-badge" alt="pratappawar_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Pratappawar_" target="blank"><img src="https://img.shields.io/twitter/follow/pratappawar_?logo=twitter&style=for-the-badge" alt="pratappawar_" /></a> </p>
 
 - 🔭 I’m currently working on [Tripify](https://github.com/pawarspeaks/UPRAISE)
 
@@ -32,4 +35,4 @@
 ![Pratap's github stats](https://github-readme-stats.spielers.vercel.app/api?username=pawarspeaks&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=pawarspeaks&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawarspeaks&&theme=dark" alt="pawarspeaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawarspeaks&&theme=chartreuse-dark" alt="pawarspeaks" /></p>
