@@ -47,4 +47,4 @@
 ![Pratap's github stats](https://github-readme-stats.spielers.vercel.app/api?username=pawarspeaks&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=pawarspeaks&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pawarspeaks&&theme=chartreuse-dark" alt="pawarspeaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawarspeaks&&theme=chartreuse-dark" alt="pawarspeaks" /></p>
