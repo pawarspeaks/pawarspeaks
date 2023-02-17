@@ -9,7 +9,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratappawar/)
-<img src="https://profile-counter.glitch.me/spielers/count.svg" />
+<img src="https://profile-counter.glitch.me/pawarspeaks/count.svg" />
 
 <br>
 
