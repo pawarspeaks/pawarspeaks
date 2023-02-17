@@ -1,10 +1,10 @@
-<h1 align="center">Hey there👋, I'm Pratap!</h1>
+<h1 align="center">Hey there 👋🏻 I'm Pratap!</h1>
 <h3 align="center">Learner exploring 🪁 | Bringing ideas to life through code 💡📌</h3>
 
 ## Second year Undergrad, Web Developer, Game Developer, Open Source Enthusiast, Programmer!
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawarspeaks&label=Profile%20views&color=0e75b6&style=flat" alt="pawarspeaks" /> </p>
 
 [![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratappawar/)
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pawarspeaks](https://github.com/pawarspeaks)
 
-- 📫 How to reach me **iampratappawar@gmail.com**
+- 📧 Reachout to me at **iampratappawar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
