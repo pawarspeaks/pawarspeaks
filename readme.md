@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋🏻 I'm Pratap!</h1>
 <h3 align="center">Learner exploring 🪁 | Bringing ideas to life through code 💡📌</h3>
 
-## Second year Undergrad, Web Developer, Game Developer, Open Source Enthusiast, Programmer!
+## Pre-Final year CSE student, Web Developer, Game Developer, Open Source Enthusiast, Programmer!
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
