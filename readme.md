@@ -13,7 +13,7 @@
  
 <p align="left"> <a href="https://twitter.com/Pratappawar_" target="blank"><img src="https://img.shields.io/twitter/follow/pratappawar_?logo=twitter&style=for-the-badge" alt="pratappawar_" /></a> </p>
 
-- 🔭 I’m currently working on [Tripify](https://github.com/pawarspeaks/UPRAISE)
+- 🔭 I’m currently working on [Technexus](https://github.com/pawarspeaks/TechNexus)
 
 - 🌱 I’m currently learning **Web Development 👨🏻‍💻| Java ⚒️| Unreal Engine**
 
