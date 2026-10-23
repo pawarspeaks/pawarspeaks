@@ -1,7 +1,7 @@
 <h1 align="center">🏎️Pratap Pawar | Cloud Architect in the Making ☁️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F91F7&center=true&vCenter=true&width=750&lines=SRE+Intern+%40+Leadsquared;Former+SWE+Intern+%40+Mojaloop+Foundation;Community+Builder+at+Dev+Code+Community+%285000%2B+strong!%29;Open+Source+Contributor;Former+SDE+Intern+%40+Clipsi;Former+Game+Dev+Intern+%40+Akiyam;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F91F7&center=true&vCenter=true&width=750&lines=SRE+%40+Leadsquared;Former+SWE+%40+Mojaloop+Foundation;Community+Builder+at+Dev+Code+Community+%285000%2B+strong!%29;Open+Source+Contributor;Former+SDE+%40+Clipsi;Former+Game+Dev+%40+Akiyam;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <div align="center">
